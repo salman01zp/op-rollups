@@ -1,0 +1,8 @@
+{
+  "name": "cross-chain-message",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/salman01zp/op-rollups",
+  "author": "salman01zp <pathansalman555@gmail.com>",
+  "license": "MIT"
+}
